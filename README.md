@@ -66,4 +66,7 @@
 > 아키텍처
 <p align="center">
   <img width=100% src="https://github.com/SHIN1501020/testReadMe/assets/72782380/bddb3c77-33b0-4e67-ad5a-e14a7d2a1ad5">
-</p>   
+</p>
+
+> 주요 기술
+> >TypeScript, NestJS, MySQL, Prisma, OAuth2.0(카카오), JWT, Passport, AWS(EC2, S3, Lambda), Puppeteer, Chromium, Docker
