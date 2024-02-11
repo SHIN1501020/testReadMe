@@ -21,6 +21,9 @@
 
 1. 메인페이지
    * 애플 제품에 관련해 카테고리별 조회를 할 수 있습니다.
+  <p align="center">
+    <img width=100% src="https://github.com/SHIN1501020/testReadMe/assets/72782380/865ab963-f709-4f09-899c-c8226ed58f2d">
+  </p>
    * 애플 제품에 관련해 검색을 할 수 있습니다.   
      
 2. 상세페이지
