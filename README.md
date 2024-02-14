@@ -19,7 +19,6 @@
 <br/>
 
 ## 주요 기능   
-<br/><br/>
 1. 메인페이지
 * 애플 제품에 관련해 카테고리별 조회를 할 수 있습니다.
     <p align="center">
@@ -67,7 +66,8 @@
 6. 스크래핑 및 파트너스 기능
 * Puppeteer AWS lambda 함수 배포를 통한 쿠팡 애플 상품 자동 스크래핑
 * 쿠팡 파트너스 API를 통해 쿠팡에서 구매가 발생하면 구매금액에 대한 커미션 금액을 받습니다.
-  
+<br/><br/>
+
 > 아키텍처
 <p align="center">
   <img width=100% src="https://github.com/SHIN1501020/testReadMe/assets/72782380/bddb3c77-33b0-4e67-ad5a-e14a7d2a1ad5">
