@@ -68,15 +68,17 @@
 * 쿠팡 파트너스 API를 통해 쿠팡에서 구매가 발생하면 구매금액에 대한 커미션 금액을 받습니다.
 <br/><br/>
 
-> 아키텍처
+## 아키텍처
 <p align="center">
   <img width=100% src="https://github.com/SHIN1501020/testReadMe/assets/72782380/bddb3c77-33b0-4e67-ad5a-e14a7d2a1ad5">
 </p>
 <br/><br/>
 
-> 주요 기술
+## 주요 기술
 > >TypeScript, NestJS, MySQL, Prisma, OAuth2.0(카카오), JWT, Passport, AWS(EC2, S3, Lambda), Puppeteer, Chromium, Docker
 <br/><br/>
 
-> ERD
-> 
+## ERD
+<p align="center">
+  <img width=100% src="https://github.com/SHIN1501020/testReadMe/assets/72782380/8a9bfa2e-e4f6-4914-9bc1-4aebd8bd7936">
+</p>
