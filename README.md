@@ -75,9 +75,9 @@
 <br/><br/>
 
 ## 주요 기술
-> >TypeScript, NestJS, MySQL, Prisma, OAuth2.0(카카오), JWT, Passport, AWS(EC2, S3, Lambda), Puppeteer, Chromium, Docker
-<br/><br/>
+> TypeScript, NestJS, MySQL, Prisma, OAuth2.0(카카오), JWT, Passport, AWS(EC2, S3, Lambda), Puppeteer, Chromium, Docker
 
+<br/><br/>
 ## ERD
 <p align="center">
   <img width=100% src="https://github.com/SHIN1501020/testReadMe/assets/72782380/8a9bfa2e-e4f6-4914-9bc1-4aebd8bd7936">
